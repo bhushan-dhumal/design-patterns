@@ -1,7 +1,5 @@
 # design-patterns
-Own notes to understand design patterns
 
-Notes taken from Design Patterns: Elements of Reusable Object-Oriented Software (By Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides)
 
 Design pattern classified by purpose in below three category
 
