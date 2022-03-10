@@ -7,6 +7,11 @@ Design pattern classified by purpose in below three category
 2. **Structural** - composition of classes or objects.
 3. **Behavioural** - characterize the ways in which classes or objects interact and distribute responsibility.
 
+Design pattern can also be classifed by scope in below two category
+
+- Class
+- Object
+
 ## Creational
 ### Factory Method
 Define an interface for creating the object, but let subclasses decide which class to instantiate.
